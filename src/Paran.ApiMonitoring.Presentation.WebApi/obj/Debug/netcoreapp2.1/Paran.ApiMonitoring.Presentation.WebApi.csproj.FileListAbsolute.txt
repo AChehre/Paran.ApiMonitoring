@@ -1,0 +1,14 @@
+F:\Dev\Paran.ApiMonitoring\src\Paran.ApiMonitoring.Presentation.WebApi\bin\Debug\netcoreapp2.1\Paran.ApiMonitoring.Presentation.WebApi.deps.json
+F:\Dev\Paran.ApiMonitoring\src\Paran.ApiMonitoring.Presentation.WebApi\bin\Debug\netcoreapp2.1\Paran.ApiMonitoring.Presentation.WebApi.runtimeconfig.json
+F:\Dev\Paran.ApiMonitoring\src\Paran.ApiMonitoring.Presentation.WebApi\bin\Debug\netcoreapp2.1\Paran.ApiMonitoring.Presentation.WebApi.runtimeconfig.dev.json
+F:\Dev\Paran.ApiMonitoring\src\Paran.ApiMonitoring.Presentation.WebApi\bin\Debug\netcoreapp2.1\Paran.ApiMonitoring.Presentation.WebApi.dll
+F:\Dev\Paran.ApiMonitoring\src\Paran.ApiMonitoring.Presentation.WebApi\bin\Debug\netcoreapp2.1\Paran.ApiMonitoring.Presentation.WebApi.pdb
+F:\Dev\Paran.ApiMonitoring\src\Paran.ApiMonitoring.Presentation.WebApi\obj\Debug\netcoreapp2.1\Paran.ApiMonitoring.Presentation.WebApi.csprojAssemblyReference.cache
+F:\Dev\Paran.ApiMonitoring\src\Paran.ApiMonitoring.Presentation.WebApi\obj\Debug\netcoreapp2.1\Paran.ApiMonitoring.Presentation.WebApi.csproj.CoreCompileInputs.cache
+F:\Dev\Paran.ApiMonitoring\src\Paran.ApiMonitoring.Presentation.WebApi\obj\Debug\netcoreapp2.1\Paran.ApiMonitoring.Presentation.WebApi.RazorAssemblyInfo.cache
+F:\Dev\Paran.ApiMonitoring\src\Paran.ApiMonitoring.Presentation.WebApi\obj\Debug\netcoreapp2.1\Paran.ApiMonitoring.Presentation.WebApi.RazorAssemblyInfo.cs
+F:\Dev\Paran.ApiMonitoring\src\Paran.ApiMonitoring.Presentation.WebApi\obj\Debug\netcoreapp2.1\Paran.ApiMonitoring.Presentation.WebApi.AssemblyInfoInputs.cache
+F:\Dev\Paran.ApiMonitoring\src\Paran.ApiMonitoring.Presentation.WebApi\obj\Debug\netcoreapp2.1\Paran.ApiMonitoring.Presentation.WebApi.AssemblyInfo.cs
+F:\Dev\Paran.ApiMonitoring\src\Paran.ApiMonitoring.Presentation.WebApi\obj\Debug\netcoreapp2.1\Paran.ApiMonitoring.Presentation.WebApi.RazorTargetAssemblyInfo.cache
+F:\Dev\Paran.ApiMonitoring\src\Paran.ApiMonitoring.Presentation.WebApi\obj\Debug\netcoreapp2.1\Paran.ApiMonitoring.Presentation.WebApi.dll
+F:\Dev\Paran.ApiMonitoring\src\Paran.ApiMonitoring.Presentation.WebApi\obj\Debug\netcoreapp2.1\Paran.ApiMonitoring.Presentation.WebApi.pdb
